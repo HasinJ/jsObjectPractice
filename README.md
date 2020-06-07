@@ -1,4 +1,4 @@
 # jsObjectPractice
 
-task 1:
+task 1-4:
 https://javascript.info/object
